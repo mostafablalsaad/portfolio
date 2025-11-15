@@ -194,7 +194,9 @@ const Contact = () => {
                 </h4>
                 <div className="space-y-2">
                   <div className="flex items-center space-x-3">
-                    <span className="text-gray-300">English: Fluent</span>
+                    <span className="text-gray-300">Arabic Nativ</span>
+                    <span className="text-gray-300">English Fluent</span>
+                    <span className="text-gray-300">German conversational</span>
                   </div>
                 </div>
               </div>
